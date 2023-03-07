@@ -1,2 +1,2 @@
 # PROGRAMACION-III
-Trabajo final curso 2022-2023
+Ejercicios de clase y trabajo final curso 2022-2023
