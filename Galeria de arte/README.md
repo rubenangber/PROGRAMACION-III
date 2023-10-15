@@ -16,5 +16,3 @@ Consiste en crear un programa que siga el patrón MVC descrito en clases con las
     - Listado por año e identificador
     - Listado por fabricante y año
 4. Salir
-
-Todo ello usando la biblioteca utilizada en clase
