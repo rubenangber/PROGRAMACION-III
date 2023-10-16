@@ -1,18 +1,7 @@
-## Getting Started
-
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Terminal
+Empleando el método readPassword(), de Console, crear un programa que pida
+usuario y contraseña al entrar. Si la pareja usuario / contraseña es correcta, emitir un
+mensaje de bienvenida y salir de programa. Si no, salir de programa.
+Mejora: ofrecer una pista al usuario si se equivoca
+Mejora: salir del programa después de tres fallos
+Mejora: leer de disco una lista de usuarios/contraseñas (biblioteca.jar)
