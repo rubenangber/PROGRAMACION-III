@@ -1,11 +1,11 @@
 public class Video {
     public String titulo;
-    public int visualizaciones;
+    public long visualizaciones;
     public long segundos;
     public String URL;
     public float ingresos;
     
-    public Video(String titulo, int visualizaciones, long segundos, String URL) {
+    public Video(String titulo, long visualizaciones, long segundos, String URL) {
         this.titulo = titulo;
         this.visualizaciones = visualizaciones;
         this.segundos = segundos;
@@ -21,11 +21,11 @@ public class Video {
         this.titulo = titulo;
     }
 
-    public int getVisualizaciones() {
+    public long getVisualizaciones() {
         return visualizaciones;
     }
 
-    public void setVisualizaciones(int visualizaciones) {
+    public void setVisualizaciones(long visualizaciones) {
         this.visualizaciones = visualizaciones;
     }
 
@@ -54,5 +54,4 @@ public class Video {
         String retorno = String.format("|%-20s|%-20d|%-20d|%-20s|%-20.2f|", this.titulo, this.visualizaciones, this.segundos, this.URL, this.ingresos);
         return retorno;
     }
-    
 }

@@ -14,6 +14,16 @@ En el programa se establecerá un CPM actual de Youtube de forma fija e inaltera
 un CPM de 1.7 € (1.7 € por 1000 visualizaciones).
 Tras esto se le presentará al usuario una tabla similar a la siguiente:
 
+| Título | Visualizaciones | Duración | URL | Ingresos |
+|----------|----------|----------|----------|----------|
+| Video 1 | 1234 | 20921 | 673&vdyqw | 2,1 |
+| Video 2 | 1000 | 2231 | y3f2g8dd12 | 1,7 |
+|Suponemos más videos ... |<!-- -->  | <!-- -->  | <!-- --> | <!-- --> |
+| Video N | 1000 | 22321 | y421u8d12 | 1,7 |
+| Ingresos totales del canal | <!-- -->  | <!-- -->  | <!-- -->  | 5,5 |
+| Media de ingresos por video | <!-- -->  | <!-- -->  | <!-- -->  | 1,83 |
+
+
 Recomendaciones:
 - Haz que la E/S por consola sea robusta a fallos, emplea la biblioteca si lo consideras
 necesario.
