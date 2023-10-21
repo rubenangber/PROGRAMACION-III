@@ -1,3 +1,4 @@
+# EJERCICIO INTRODUCCIÓN POO JAVA
 Un creador de contenido quiere realizar un programa de consola en JAVA para analizar los
 posibles ingresos de su canal de Youtube. El programa deberá solicitar al inicio del
 programa la siguiente información:
