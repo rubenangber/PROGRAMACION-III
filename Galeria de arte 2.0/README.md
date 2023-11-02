@@ -1,4 +1,4 @@
-# GALERIA DE ARTE SIN COTITECA
+# GALERIA DE ARTE *SIN COTITECA*
 <p>Trabajo Programacion III curso 2022-2023</p> 
 Consiste en crear un programa que siga el patrón MVC descrito en clases con las siguientes funciones:
 
